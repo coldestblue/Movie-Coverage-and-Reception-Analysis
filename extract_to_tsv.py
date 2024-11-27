@@ -7,13 +7,14 @@ def extract_to_tsv(out_file, json_file):
 
 
     with open(out_file, 'w') as file:
-        file.write("Name\ttitle\tcoding\n")
+        file.write("Source\tTitle\tDescription\tURL\tMovie\tCoding1\tCoding2\n")
 
         for post in data:
             source_name = post.get('source', {}).get('name', 'N/A')
-            author = post.get('author', 'N/A')
+            description = post.get('description', 'N/A')
             title = post.get('title', 'N/A').replace("\t", " ")
-            file.write(f"{source_name}\t{author}\t{title}\n")
+            url = post.get('url', 'N/A')
+            file.write(f"{source_name}\t{title}\t{description}\t{url}\n")
 
 
 if __name__ == "__main__":
