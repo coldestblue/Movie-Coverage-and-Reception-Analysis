@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 
 NEWS_API_URL = "https://newsapi.org/v2/everything"
 api_key = "0ecacbc8b79c42d08cf9fb1ba8f26014"
-movies_keywords = '"We Live in Time" OR "Conclave" OR "Beating Hearts" OR "Anora"'
+movies_keywords = '"Wicked" OR "Gladiator" OR "Red One" OR "Heretic" OR "Moana"'
 
 
 def fetch_latest_news(api_key, movies_keywords, start_date, end_date):
@@ -13,6 +13,7 @@ def fetch_latest_news(api_key, movies_keywords, start_date, end_date):
     params = {
         "apiKey": api_key,
         "q": movies_keywords,
+        "searchIn" : "title,description",
         "from": start_date,
         "to": end_date,
         "language": "en",
