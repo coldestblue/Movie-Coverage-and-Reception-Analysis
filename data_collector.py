@@ -31,14 +31,14 @@ def collect_data(api_key, movies_keywords, lookback_days=5):
     start_date = datetime.now() - timedelta(days=30)
 
     for i in range(6):
-        from_date = (start_date + timedelta(lookback_days)).strftime("%Y-%m-%d")
-        to_date = (start_date + timedelta(lookback_days * i)).strftime("%Y-%m-%d")
+        from_date = (start_date + timedelta(lookback_days * i)).strftime("%Y-%m-%d")
+        to_date = (start_date + timedelta(lookback_days * (i + 1)-1)).strftime("%Y-%m-%d")
 
         articles = fetch_latest_news(api_key, movies_keywords, from_date, to_date)
         all_articles.extend(articles)
 
 
-    with open("movies_data", "w") as f:
+    with open("movies_data.json", "w") as f:
         json.dump(all_articles, f)
     
     print(f"Total articles fetched: {len(all_articles)}")
