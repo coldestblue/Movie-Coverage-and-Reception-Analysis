@@ -1,0 +1,541 @@
+Topic,Movie,Word,Score
+box office,Gladiator,gladiator,2.403001380119345
+box office,Gladiator,weekend,1.9683409707861645
+box office,Gladiator,thanksgiving,1.5548512909854215
+box office,Gladiator,wicked,1.5378035939545736
+box office,Gladiator,pre,0.9659061261541602
+box office,Gladiator,glicked,0.909387933402937
+box office,Gladiator,million,0.8632697185414873
+box office,Gladiator,start,0.8420215499144216
+box office,Gladiator,international,0.8410915832656565
+box office,Gladiator,opening,0.775120400710205
+box office,"Gladiator, Wicked",fall,0.41167054081829313
+box office,"Gladiator, Wicked",expected,0.3365011551719873
+box office,"Gladiator, Wicked",jeff,0.3356150075138404
+box office,"Gladiator, Wicked",goldblum,0.3356150075138404
+box office,"Gladiator, Wicked",trifecta,0.25339145438963906
+box office,"Gladiator, Wicked",languished,0.25339145438963906
+box office,"Gladiator, Wicked",lackluster,0.25339145438963906
+box office,"Gladiator, Wicked",wicked,0.2485771399549512
+box office,"Gladiator, Wicked",revive,0.2379995775831102
+box office,"Gladiator, Wicked",breaking,0.2379995775831102
+box office,Heretic,weekend,0.9493451238868078
+box office,Heretic,heretic,0.9306303176547488
+box office,Heretic,pageant,0.618620858362509
+box office,Heretic,venom,0.5707895806180966
+box office,Heretic,a24,0.5178797021092163
+box office,Heretic,signs,0.4710153983115272
+box office,Heretic,dance,0.44145112409110854
+box office,Heretic,christmas,0.4364403688544881
+box office,Heretic,last,0.3973750064997347
+box office,Heretic,debut,0.3828089470486741
+box office,"Heretic, Venom",previews,0.6659382690882895
+box office,"Heretic, Venom",heretic,0.39415146157669617
+box office,"Heretic, Venom",million,0.35460796720315213
+box office,"Heretic, Venom",began,0.3080093970707432
+box office,"Heretic, Venom",venom,0.290404615019357
+box office,"Heretic, Venom",hugh,0.24622016515521797
+box office,"Heretic, Venom",grant,0.24440098586331432
+box office,"Heretic, Venom",a24,0.23964025031313582
+box office,"Heretic, Venom",horror,0.22908733482643426
+box office,"Heretic, Venom",threequel,0.2155256750707149
+box office,"Heretic,Venom",notches,0.19259948271837332
+box office,"Heretic,Venom",vie,0.19259948271837332
+box office,"Heretic,Venom",uncertain,0.19259948271837332
+box office,"Heretic,Venom",tricky,0.19259948271837332
+box office,"Heretic,Venom",skirted,0.19259948271837332
+box office,"Heretic,Venom",national,0.19259948271837332
+box office,"Heretic,Venom",likely,0.19259948271837332
+box office,"Heretic,Venom",absence,0.19259948271837332
+box office,"Heretic,Venom",mood,0.19259948271837332
+box office,"Heretic,Venom",gain,0.19259948271837332
+box office,Moana 2,moana,1.8692963440671262
+box office,Moana 2,disney,1.164490991605858
+box office,Moana 2,record,1.0937779665924994
+box office,Moana 2,inside,0.7388347756293115
+box office,Moana 2,out,0.696521870939989
+box office,Moana 2,thanksgiving,0.6104859115779107
+box office,Moana 2,day,0.5538223437694287
+box office,Moana 2,livestream,0.5525743471384877
+box office,Moana 2,could,0.5479365895028521
+box office,Moana 2,643,0.46773207579461995
+box office,Red One,red,2.8068767514394644
+box office,Red One,amazon,1.7881570119759014
+box office,Red One,johnson,1.6383484457408424
+box office,Red One,million,1.5822474212029713
+box office,Red One,dwayne,1.5413398315079352
+box office,Red One,weekend,1.268307788689123
+box office,Red One,mgm,1.2136377619755911
+box office,Red One,christmas,1.1991858766290484
+box office,Red One,evans,1.0906338794583696
+box office,Red One,chris,1.0906338794583696
+box office,"Red One, Gladiator",soft,0.219250659724371
+box office,"Red One, Gladiator",tasted,0.219250659724371
+box office,"Red One, Gladiator",expired,0.219250659724371
+box office,"Red One, Gladiator",kinder,0.219250659724371
+box office,"Red One, Gladiator",red,0.20781846108447238
+box office,"Red One, Gladiator",eggnog,0.20593261333501459
+box office,"Red One, Gladiator",title,0.20593261333501459
+box office,"Red One, Gladiator",estimated,0.1891538592125451
+box office,"Red One, Gladiator",led,0.17371595836167647
+box office,"Red One, Gladiator",34,0.17371595836167647
+box office,"Red One, Venom, Heretic, Wicked, Gladiator",spot,0.38060795470197173
+box office,"Red One, Venom, Heretic, Wicked, Gladiator",top,0.3056140555193062
+box office,"Red One, Venom, Heretic, Wicked, Gladiator",million,0.24080585913891653
+box office,"Red One, Venom, Heretic, Wicked, Gladiator",weekend,0.2083037228500676
+box office,"Red One, Venom, Heretic, Wicked, Gladiator",red,0.20128264280543157
+box office,"Red One, Venom, Heretic, Wicked, Gladiator",50,0.19945610431140795
+box office,"Red One, Venom, Heretic, Wicked, Gladiator",adding,0.19030397735098586
+box office,"Red One, Venom, Heretic, Wicked, Gladiator",overseas,0.18320503616698347
+box office,"Red One, Venom, Heretic, Wicked, Gladiator",total,0.18320503616698347
+box office,"Red One, Venom, Heretic, Wicked, Gladiator",film,0.17454161121677012
+box office,"Red One, Wicked",million,0.319098540106518
+box office,"Red One, Wicked",budgeted,0.281397916737537
+box office,"Red One, Wicked",chilly,0.281397916737537
+box office,"Red One, Wicked",9iei0uua20,0.281397916737537
+box office,"Red One, Wicked",red,0.2667252271089567
+box office,"Red One, Wicked",spot,0.2521770922281915
+box office,"Red One, Wicked",250,0.24277008786286
+box office,"Red One, Wicked",debuts,0.22858551573399
+box office,"Red One, Wicked",34,0.22295626771884608
+box office,"Red One, Wicked",https,0.22295626771884608
+box office,Venom,venom,0.3063036608810631
+box office,Venom,rule,0.21616970269798047
+box office,Venom,row,0.21616970269798047
+box office,Venom,lethargic,0.21616970269798047
+box office,Venom,sequel,0.21097475126392734
+box office,Venom,moviegoing,0.20303880433660568
+box office,Venom,tops,0.20303880433660568
+box office,Venom,performing,0.1937222836836219
+box office,Venom,superhero,0.1937222836836219
+box office,Venom,weeks,0.18059138532224714
+box office,"Venom, Heretic",venom,0.5430401244386054
+box office,"Venom, Heretic",christmas,0.4517593114250842
+box office,"Venom, Heretic",pageant,0.4423493331408146
+box office,"Venom, Heretic",dance,0.3810161555581251
+box office,"Venom, Heretic",last,0.34297408938110674
+box office,"Venom, Heretic",domestic,0.3410673910808706
+box office,"Venom, Heretic",ever,0.33575776605275515
+box office,"Venom, Heretic",best,0.3047523518762164
+box office,"Venom, Heretic",niche,0.29250661557607627
+box office,"Venom, Heretic",veterans,0.274738748057077
+box office,"Venom, Red One",venom,0.40570194402165094
+box office,"Venom, Red One",disappointments,0.3978871736434164
+box office,"Venom, Red One",reign,0.3978871736434164
+box office,"Venom, Red One",red,0.3542086342815436
+box office,"Venom, Red One",continues,0.34326872503115424
+box office,"Venom, Red One",international,0.29197790602184204
+box office,"Venom, Red One",dwayne,0.2150060358690029
+box office,"Venom, Red One",johnson,0.2150060358690029
+box office,"Venom, Red One",topples,0.1989435868217082
+box office,"Venom, Red One",string,0.1989435868217082
+box office,"Venom,Heretic",third,0.2952526472635697
+box office,"Venom,Heretic",venom,0.264011204785632
+box office,"Venom,Heretic",million,0.2112851315379864
+box office,"Venom,Heretic",looming,0.18632236873462085
+box office,"Venom,Heretic",905,0.18632236873462085
+box office,"Venom,Heretic",prior,0.18632236873462085
+box office,"Venom,Heretic",sleepy,0.18632236873462085
+box office,"Venom,Heretic",weekend,0.18276747766689252
+box office,"Venom,Heretic",37,0.1750045010789341
+box office,"Venom,Heretic",trilogy,0.1750045010789341
+box office,Wicked,opening,1.2908775275876014
+box office,Wicked,wicked,1.1401765837424933
+box office,Wicked,weekend,1.066044483388226
+box office,Wicked,million,0.9109914717894108
+box office,Wicked,records,0.7677470266891988
+box office,Wicked,gravity,0.5885291610720781
+box office,Wicked,massive,0.5850969004204598
+box office,Wicked,broke,0.5832344084802763
+box office,Wicked,114,0.5577282725738539
+box office,Wicked,broadway,0.5538700948542854
+box office,"Wicked, Gladiator",gladiator,0.5837890525428746
+box office,"Wicked, Gladiator",wicked,0.5451768492213701
+box office,"Wicked, Gladiator",posters,0.3979742327308728
+box office,"Wicked, Gladiator",mashup,0.3979742327308728
+box office,"Wicked, Gladiator",80m,0.38833712705855555
+box office,"Wicked, Gladiator",65m,0.38833712705855555
+box office,"Wicked, Gladiator",screens,0.38139492593470165
+box office,"Wicked, Gladiator",studios,0.3744496271332094
+box office,"Wicked, Gladiator",vs,0.37379989592412644
+box office,"Wicked, Gladiator",theaters,0.3732514355674444
+box office,"Wicked, Gladiator, Moana 2",paraphrase,0.2840094716458357
+box office,"Wicked, Gladiator, Moana 2",bets,0.2840094716458357
+box office,"Wicked, Gladiator, Moana 2",wesley,0.2840094716458357
+box office,"Wicked, Gladiator, Moana 2",rebound,0.2840094716458357
+box office,"Wicked, Gladiator, Moana 2",snipes,0.2840094716458357
+box office,"Wicked, Gladiator, Moana 2",wolverine,0.2667577501543204
+box office,"Wicked, Gladiator, Moana 2",revive,0.2667577501543204
+box office,"Wicked, Gladiator, Moana 2",deadpool,0.25451745896083966
+box office,"Wicked, Gladiator, Moana 2",blade,0.25451745896083966
+box office,"Wicked, Gladiator, Moana 2",summer,0.245023151502765
+box office,"Wicked, Gladiator, Moana 2, Heretic",100,0.38124122717168374
+box office,"Wicked, Gladiator, Moana 2, Heretic",four,0.37070247416924734
+box office,"Wicked, Gladiator, Moana 2, Heretic",plus,0.3615733910765347
+box office,"Wicked, Gladiator, Moana 2, Heretic",million,0.2587447807912257
+box office,"Wicked, Gladiator, Moana 2, Heretic",november,0.251541643886663
+box office,"Wicked, Gladiator, Moana 2, Heretic",yield,0.228174789696803
+box office,"Wicked, Gladiator, Moana 2, Heretic",lame,0.228174789696803
+box office,"Wicked, Gladiator, Moana 2, Heretic",titles,0.2143146606651097
+box office,"Wicked, Gladiator, Moana 2, Heretic",october,0.20448074261753516
+box office,"Wicked, Gladiator, Moana 2, Heretic",led,0.18078669553826734
+box office,,000,0.0
+box office,,outburst,0.0
+box office,,poorly,0.0
+box office,,pop,0.0
+box office,,popcorn,0.0
+box office,,popped,0.0
+box office,,popping,0.0
+box office,,pops,0.0
+box office,,popular,0.0
+box office,,porn,0.0
+box office,All Movies,weekend,7.386200821953122
+box office,All Movies,million,5.677633791094939
+box office,All Movies,wicked,3.9647533629597254
+box office,All Movies,red,3.9472072903096955
+box office,All Movies,opening,3.708145479074854
+box office,All Movies,gladiator,3.666803349484438
+box office,All Movies,moana,3.3843149243371657
+box office,All Movies,venom,2.9451752397929067
+box office,All Movies,thanksgiving,2.640034414165295
+box office,All Movies,movie,2.4004789205448067
+cast spotlight,Gladiator,mescal,5.3978049181675285
+cast spotlight,Gladiator,gladiator,5.366216213719109
+cast spotlight,Gladiator,washington,2.9812029840909835
+cast spotlight,Gladiator,ridley,2.4614248023865484
+cast spotlight,Gladiator,scott,2.335282570208594
+cast spotlight,Gladiator,premiere,1.8392230514012478
+cast spotlight,Gladiator,actor,1.4172425359886545
+cast spotlight,Gladiator,phoenix,1.4083351760681893
+cast spotlight,Gladiator,about,1.353618954389033
+cast spotlight,Gladiator,stars,1.3422914240982098
+cast spotlight,"Gladiator, Wicked",jeff,0.38776911182850593
+cast spotlight,"Gladiator, Wicked",goldblum,0.38776911182850593
+cast spotlight,"Gladiator, Wicked",rising,0.2386796466375607
+cast spotlight,"Gladiator, Wicked",boats,0.2386796466375607
+cast spotlight,"Gladiator, Wicked",tide,0.2386796466375607
+cast spotlight,"Gladiator, Wicked",competing,0.2386796466375607
+cast spotlight,"Gladiator, Wicked",hope,0.2386796466375607
+cast spotlight,"Gladiator, Wicked",expressed,0.22418141611861786
+cast spotlight,"Gladiator, Wicked",worried,0.22418141611861786
+cast spotlight,"Gladiator, Wicked",lift,0.20591580583491761
+cast spotlight,Heretic,heretic,2.9184765152794108
+cast spotlight,Heretic,grant,2.8313473643725975
+cast spotlight,Heretic,sophie,1.8034886187390673
+cast spotlight,Heretic,thatcher,1.8034886187390673
+cast spotlight,Heretic,a24,1.2951770879863644
+cast spotlight,Heretic,horror,1.27367710142202
+cast spotlight,Heretic,chloe,0.7897656876763914
+cast spotlight,Heretic,east,0.7603049257732516
+cast spotlight,Heretic,featurette,0.7596583534417923
+cast spotlight,Heretic,star,0.7581183684636198
+cast spotlight,Moana 2,moana,1.0412705769248833
+cast spotlight,Moana 2,princess,0.8402506382346702
+cast spotlight,Moana 2,auli,0.7953794149581339
+cast spotlight,Moana 2,rock,0.5781140962671654
+cast spotlight,Moana 2,cravalho,0.5590384014704436
+cast spotlight,Moana 2,cinema,0.5339554228306795
+cast spotlight,Moana 2,disney,0.4670588617761814
+cast spotlight,Moana 2,voice,0.44316760586275944
+cast spotlight,Moana 2,photos,0.42913695372315025
+cast spotlight,Moana 2,says,0.42833161634776445
+cast spotlight,Red One,red,2.934347975724553
+cast spotlight,Red One,johnson,2.1295026571656854
+cast spotlight,Red One,chris,1.8879683450076479
+cast spotlight,Red One,evans,1.7864447672010917
+cast spotlight,Red One,new,1.0062993557470385
+cast spotlight,Red One,beard,1.0037575292531953
+cast spotlight,Red One,set,0.9833670556493601
+cast spotlight,Red One,rock,0.9129165589814785
+cast spotlight,Red One,lucy,0.9046857702415625
+cast spotlight,Red One,liu,0.9046857702415625
+cast spotlight,Wicked,grande,9.223912599500602
+cast spotlight,Wicked,wicked,8.15276136208548
+cast spotlight,Wicked,erivo,5.62514239854529
+cast spotlight,Wicked,ethan,3.394286808800695
+cast spotlight,Wicked,glinda,3.2038941562937158
+cast spotlight,Wicked,slater,3.1480569584609537
+cast spotlight,Wicked,broadway,2.3679987790827366
+cast spotlight,Wicked,fan,2.1980782330628608
+cast spotlight,Wicked,name,2.0866519895148423
+cast spotlight,Wicked,poster,2.0318211214408644
+marketing and promotion,Wicked,wicked,7.756345902981752
+marketing and promotion,Wicked,mattel,4.160526122859145
+marketing and promotion,Wicked,dolls,3.3405700458589047
+marketing and promotion,Wicked,packaging,3.023892384422134
+marketing and promotion,Wicked,part,2.0799397899756435
+marketing and promotion,Wicked,site,2.0776312535955426
+marketing and promotion,Wicked,porn,2.040542409618957
+marketing and promotion,Wicked,erivo,1.7408946905182707
+marketing and promotion,Wicked,website,1.7303667452591243
+marketing and promotion,Wicked,grande,1.6834771204092878
+marketing and promotion,Gladiator,gladiator,3.7917722633273585
+marketing and promotion,Gladiator,colosseum,1.4608778589769036
+marketing and promotion,Gladiator,airbnb,1.2659096272888883
+marketing and promotion,Gladiator,november,1.0429505905271976
+marketing and promotion,Gladiator,steelbook,1.0338113868320402
+marketing and promotion,Gladiator,sequel,0.9939686425545315
+marketing and promotion,Gladiator,pedro,0.9785501454915773
+marketing and promotion,Gladiator,pascal,0.8666970103465608
+marketing and promotion,Gladiator,roman,0.8340106689089419
+marketing and promotion,Gladiator,ridley,0.8087552904074172
+marketing and promotion,"Gladiator, Wicked",glicked,0.32766081888888987
+marketing and promotion,"Gladiator, Wicked",release,0.2706147757477841
+marketing and promotion,"Gladiator, Wicked",dubbed,0.22767445131062183
+marketing and promotion,"Gladiator, Wicked",dual,0.22767445131062183
+marketing and promotion,"Gladiator, Wicked",summer,0.19642130684414918
+marketing and promotion,"Gladiator, Wicked",date,0.19642130684414918
+marketing and promotion,"Gladiator, Wicked",unknown,0.19642130684414918
+marketing and promotion,"Gladiator, Wicked",2023,0.190202623455113
+marketing and promotion,"Gladiator, Wicked",barbenheimer,0.18494480156664717
+marketing and promotion,"Gladiator, Wicked",10,0.1763728867143524
+marketing and promotion,"Gladiator, Wicked, Moana 2",sci,0.3791305741868246
+marketing and promotion,"Gladiator, Wicked, Moana 2",fi,0.3617340088547447
+marketing and promotion,"Gladiator, Wicked, Moana 2",another,0.30056098823506083
+marketing and promotion,"Gladiator, Wicked, Moana 2",watch,0.27790271475574135
+marketing and promotion,"Gladiator, Wicked, Moana 2",november,0.2224932433056224
+marketing and promotion,"Gladiator, Wicked, Moana 2",slated,0.20182482795212323
+marketing and promotion,"Gladiator, Wicked, Moana 2",batch,0.20182482795212323
+marketing and promotion,"Gladiator, Wicked, Moana 2",netflix,0.18086700442737236
+marketing and promotion,"Gladiator, Wicked, Moana 2",exciting,0.18086700442737236
+marketing and promotion,"Gladiator, Wicked, Moana 2",forward,0.1741200922270638
+marketing and promotion,"Gladiator, Wicked, Red One",kidnapped,0.33584655627041266
+marketing and promotion,"Gladiator, Wicked, Red One",empire,0.3130821798055622
+marketing and promotion,"Gladiator, Wicked, Red One",gets,0.3130821798055622
+marketing and promotion,"Gladiator, Wicked, Red One",including,0.2903178033407117
+marketing and promotion,"Gladiator, Wicked, Red One",santa,0.2790513758094304
+marketing and promotion,"Gladiator, Wicked, Red One",where,0.2790513758094304
+marketing and promotion,"Gladiator, Wicked, Red One",roman,0.26967231458513174
+marketing and promotion,"Gladiator, Wicked, Red One",watch,0.25801463905593824
+marketing and promotion,"Gladiator, Wicked, Red One",major,0.25801463905593824
+marketing and promotion,"Gladiator, Wicked, Red One",movies,0.22272212217594436
+marketing and promotion,Heretic,heretic,0.8779140418675294
+marketing and promotion,Heretic,tv,0.570805284138902
+marketing and promotion,Heretic,horror,0.5690057299347043
+marketing and promotion,Heretic,hugh,0.471608771048321
+marketing and promotion,Heretic,grant,0.4681243248835222
+marketing and promotion,Heretic,whitney,0.42927518458823083
+marketing and promotion,Heretic,utah,0.42927518458823083
+marketing and promotion,Heretic,thriller,0.42646664736820156
+marketing and promotion,Heretic,new,0.42344998310894394
+marketing and promotion,Heretic,streaming,0.4057741859128309
+marketing and promotion,Moana 2,moana,4.056254826887451
+marketing and promotion,Moana 2,disney,1.6857532979336332
+marketing and promotion,Moana 2,new,1.0599422712263338
+marketing and promotion,Moana 2,maui,0.8334602366122902
+marketing and promotion,Moana 2,photos,0.7413151354619409
+marketing and promotion,Moana 2,adventure,0.7406823188523323
+marketing and promotion,Moana 2,song,0.6939720322526175
+marketing and promotion,Moana 2,into,0.6662626308942649
+marketing and promotion,Moana 2,live,0.6028670896054451
+marketing and promotion,Moana 2,emilia,0.5967598100480364
+marketing and promotion,Red One,red,1.2698086168332572
+marketing and promotion,Red One,santa,0.6896954824774898
+marketing and promotion,Red One,premiere,0.6070592871376228
+marketing and promotion,Red One,claus,0.5317947930077782
+marketing and promotion,Red One,north,0.5317947930077782
+marketing and promotion,Red One,keeping,0.4571532090243683
+marketing and promotion,Red One,summary,0.4305109412157445
+marketing and promotion,Red One,keeps,0.4261664159248256
+marketing and promotion,Red One,doesn,0.41462809978948856
+marketing and promotion,Red One,pole,0.41453753786289727
+marketing and promotion,"Wicked, Gladiator",watching,0.40810064512239047
+marketing and promotion,"Wicked, Gladiator",tv,0.3980505781303612
+marketing and promotion,"Wicked, Gladiator",shows,0.38918579079005566
+marketing and promotion,"Wicked, Gladiator",re,0.3122925353661537
+marketing and promotion,"Wicked, Gladiator",here,0.2822301562663693
+marketing and promotion,"Wicked, Gladiator",swirl,0.2810486375455353
+marketing and promotion,"Wicked, Gladiator",affordable,0.2810486375455353
+marketing and promotion,"Wicked, Gladiator",kick,0.2810486375455353
+marketing and promotion,"Wicked, Gladiator",doj,0.2810486375455353
+marketing and promotion,"Wicked, Gladiator",november,0.2769183221000734
+marketing and promotion,"Wicked, Gladiator, Moana 2",streaming,0.291094244143604
+marketing and promotion,"Wicked, Gladiator, Moana 2",movies,0.24418189681903377
+marketing and promotion,"Wicked, Gladiator, Moana 2",tentpoles,0.20543586071617384
+marketing and promotion,"Wicked, Gladiator, Moana 2",perez,0.20543586071617384
+marketing and promotion,"Wicked, Gladiator, Moana 2",hitters,0.20543586071617384
+marketing and promotion,"Wicked, Gladiator, Moana 2",buzziest,0.20543586071617384
+marketing and promotion,"Wicked, Gladiator, Moana 2",dose,0.20543586071617384
+marketing and promotion,"Wicked, Gladiator, Moana 2",substance,0.20543586071617384
+marketing and promotion,"Wicked, Gladiator, Moana 2",kicks,0.20543586071617384
+marketing and promotion,"Wicked, Gladiator, Moana 2",twisters,0.1929569731885609
+plot,Gladiator,gladiator,2.980878466074472
+plot,Gladiator,ridley,1.4102484139039828
+plot,Gladiator,scott,1.3550808072503673
+plot,Gladiator,sequel,0.9904812029113358
+plot,Gladiator,historical,0.8499352340180764
+plot,Gladiator,connects,0.7397420388783738
+plot,Gladiator,isn,0.712502571402132
+plot,Gladiator,credits,0.6732098072636912
+plot,Gladiator,film,0.656594963214375
+plot,Gladiator,mescal,0.6489214623740811
+plot,Heretic,heretic,1.779272936986741
+plot,Heretic,ending,1.3462450651865516
+plot,Heretic,grant,1.3121286485053298
+plot,Heretic,hugh,1.2139591210257326
+plot,Heretic,horror,1.0459177376791045
+plot,Heretic,woods,0.8214453468597193
+plot,Heretic,bryan,0.8214453468597193
+plot,Heretic,mr,0.8029275941167964
+plot,Heretic,religion,0.7664557651375736
+plot,Heretic,faith,0.6738749963452105
+plot,Moana 2,moana,1.980632103122944
+plot,Moana 2,credits,0.956817861673428
+plot,Moana 2,disney,0.8305913197468252
+plot,Moana 2,scene,0.7967686092781952
+plot,Moana 2,sequel,0.6690059638102762
+plot,Moana 2,post,0.6154313417692446
+plot,Moana 2,bonus,0.4481460389273508
+plot,Moana 2,tease,0.4020464124819688
+plot,Moana 2,includes,0.3866284957157707
+plot,Moana 2,clip,0.35507358899682445
+plot,Red One,villains,0.46259528302016
+plot,Red One,johnson,0.4521165318322742
+plot,Red One,dwayne,0.4521165318322742
+plot,Red One,credits,0.40113010354353246
+plot,Red One,red,0.3965271191902256
+plot,Red One,evans,0.3245457598368481
+plot,Red One,chris,0.3245457598368481
+plot,Red One,movie,0.2988944162098992
+plot,Red One,stick,0.2952122307419293
+plot,Red One,scary,0.2462560916044741
+plot,Wicked,wicked,2.2800488798029352
+plot,Wicked,oz,1.2895144179018665
+plot,Wicked,musical,1.103598529040757
+plot,Wicked,chu,1.0036187294330294
+plot,Wicked,book,0.9614475516031398
+plot,Wicked,explained,0.8203924631856694
+plot,Wicked,scene,0.8091274514384648
+plot,Wicked,wizard,0.7810771043295832
+plot,Wicked,differences,0.7800514300920945
+plot,Wicked,jon,0.7585439956537959
+production,Gladiator,gladiator,3.8827143130459665
+production,Gladiator,scott,3.0800025061122724
+production,Gladiator,ridley,2.878328106928873
+production,Gladiator,kiss,1.4432220922605303
+production,Gladiator,about,1.1295416513506353
+production,Gladiator,gay,1.0938988368193274
+production,Gladiator,cut,0.9667507836497311
+production,Gladiator,washington,0.93744845734989
+production,Gladiator,russell,0.8771135151658094
+production,Gladiator,sequel,0.8731588848782386
+production,Wicked,wicked,1.4634857907274699
+production,Wicked,musical,1.3258010000992018
+production,Wicked,chu,1.3005328698226122
+production,Wicked,jon,1.082141648404751
+production,Wicked,original,0.887939890634312
+production,Wicked,grande,0.8193344340083313
+production,Wicked,ariana,0.8127197877294918
+production,Wicked,discusses,0.7442172201579637
+production,Wicked,those,0.728065944252948
+production,Wicked,broadway,0.6492689136370589
+production,Heretic,heretic,1.307497479028608
+production,Heretic,horror,0.8130925916399352
+production,Heretic,a24,0.739343740990126
+production,Heretic,film,0.5973638038652009
+production,Heretic,generative,0.5887687664340036
+production,Heretic,spiritual,0.562399449780853
+production,Heretic,ai,0.5617528647681305
+production,Heretic,filmmakers,0.48035070728616114
+production,Heretic,serial,0.4376098652658837
+production,Heretic,researched,0.4376098652658837
+production,Moana 2,moana,1.5440341652392615
+production,Moana 2,disney,0.9519986383017106
+production,Moana 2,animated,0.5148602041484688
+production,Moana 2,animation,0.49544827093855476
+production,Moana 2,pua,0.48271778704156176
+production,Moana 2,live,0.4826066950664938
+production,Moana 2,2016,0.47884776376009375
+production,Moana 2,more,0.4557330173080841
+production,Moana 2,sequel,0.45519630309637255
+production,Moana 2,nalo,0.44945306614502367
+production,Red One,lovers,0.2634763051080835
+production,Red One,hivju,0.2634763051080835
+production,Red One,monster,0.2634763051080835
+production,Red One,monstrous,0.2634763051080835
+production,Red One,allllll,0.2634763051080835
+production,Red One,beefcake,0.2634763051080835
+production,Red One,kristofer,0.2634763051080835
+production,Red One,red,0.24973808666582753
+production,Red One,discuss,0.24747183945066215
+production,Red One,krampus,0.24747183945066215
+reception and reviews,Red One,red,3.2490606594331974
+reception and reviews,Red One,christmas,2.0647116914010484
+reception and reviews,Red One,johnson,1.3115721773320195
+reception and reviews,Red One,dwayne,1.3115721773320195
+reception and reviews,Red One,chris,0.9938587071679428
+reception and reviews,Red One,evans,0.9938587071679428
+reception and reviews,Red One,review,0.9043916815154123
+reception and reviews,Red One,reviews,0.8609568718086924
+reception and reviews,Red One,action,0.7902838816241233
+reception and reviews,Red One,movie,0.7624329618632825
+reception and reviews,Wicked,wicked,2.8373435583519266
+reception and reviews,Wicked,movie,1.8183851839036753
+reception and reviews,Wicked,musical,1.6515613340872686
+reception and reviews,Wicked,reactions,1.6256666636500843
+reception and reviews,Wicked,adaptation,1.4308609334970146
+reception and reviews,Wicked,review,1.2780044717319958
+reception and reviews,Wicked,grande,1.2734468132864225
+reception and reviews,Wicked,ariana,1.2631660294267766
+reception and reviews,Wicked,jon,1.2234243614345814
+reception and reviews,Wicked,chu,1.2234243614345814
+reception and reviews,Gladiator,gladiator,2.2791654644442403
+reception and reviews,Gladiator,ridley,0.9872779566412356
+reception and reviews,Gladiator,scott,0.9486565609830113
+reception and reviews,Gladiator,review,0.9055244403468445
+reception and reviews,Gladiator,original,0.8918792562907784
+reception and reviews,Gladiator,critics,0.8830938605977376
+reception and reviews,Gladiator,say,0.6693621307716046
+reception and reviews,Gladiator,film,0.6615861710260831
+reception and reviews,Gladiator,denzel,0.6522724730319645
+reception and reviews,Gladiator,doesn,0.5969961083252252
+reception and reviews,Heretic,heretic,1.3134136592768868
+reception and reviews,Heretic,hugh,1.2827190903326913
+reception and reviews,Heretic,grant,1.2732418161825758
+reception and reviews,Heretic,horror,1.0420857079890093
+reception and reviews,Heretic,review,0.7760842956138141
+reception and reviews,Heretic,a24,0.6236068620785645
+reception and reviews,Heretic,jar,0.576154963327038
+reception and reviews,Heretic,thriller,0.5148382497022042
+reception and reviews,Heretic,best,0.4664246353127556
+reception and reviews,Heretic,theological,0.4535768506869011
+reception and reviews,Moana 2,moana,1.0023726159989952
+reception and reviews,Moana 2,sequel,0.6481747936901341
+reception and reviews,Moana 2,missing,0.5970967523754461
+reception and reviews,Moana 2,review,0.5109653293049102
+reception and reviews,Moana 2,doesn,0.39157440810218963
+reception and reviews,Moana 2,expand,0.3322653188207186
+reception and reviews,Moana 2,merit,0.3322653188207186
+reception and reviews,Moana 2,what,0.32441704506644425
+reception and reviews,Moana 2,sing,0.29776233925226037
+reception and reviews,Moana 2,knew,0.28665486077184904
+reception and reviews,"Gladiator, Wicked",winning,0.4032108410130166
+reception and reviews,"Gladiator, Wicked",trade,0.2656592883657582
+reception and reviews,"Gladiator, Wicked",narrative,0.2656592883657582
+reception and reviews,"Gladiator, Wicked",places,0.2656592883657582
+reception and reviews,"Gladiator, Wicked",race,0.24952222072515717
+reception and reviews,"Gladiator, Wicked",currently,0.23807278902484852
+reception and reviews,"Gladiator, Wicked",despite,0.229191919847418
+reception and reviews,"Gladiator, Wicked",war,0.229191919847418
+reception and reviews,"Gladiator, Wicked",wicked,0.2153518926702234
+reception and reviews,"Gladiator, Wicked",awards,0.21048628968393884
+unrelated to movies,,000,0.0
+unrelated to movies,,product,0.0
+unrelated to movies,,pooping,0.0
+unrelated to movies,,poorly,0.0
+unrelated to movies,,pop,0.0
+unrelated to movies,,popcorn,0.0
+unrelated to movies,,popped,0.0
+unrelated to movies,,popping,0.0
+unrelated to movies,,pops,0.0
+unrelated to movies,,popular,0.0
+unreleated to movies,,000,0.0
+unreleated to movies,,product,0.0
+unreleated to movies,,pooping,0.0
+unreleated to movies,,poorly,0.0
+unreleated to movies,,pop,0.0
+unreleated to movies,,popcorn,0.0
+unreleated to movies,,popped,0.0
+unreleated to movies,,popping,0.0
+unreleated to movies,,pops,0.0
+unreleated to movies,,popular,0.0
